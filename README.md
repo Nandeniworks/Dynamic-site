@@ -1,4 +1,4 @@
-# Dynamic Landing Page 🚀✨
+# Dynamic Landing Page 
 
 This project is a modern, dynamic landing page inspired by SaaS product websites. It features an animated gradient background, clean UI layout, and strong typography for a bold first impression.
 
